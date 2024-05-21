@@ -1,0 +1,83 @@
+body{
+  background-color: black;
+}
+
+p{
+  margin-bottom: 0;
+  margin-top: 0;
+  display: inline-block;
+}
+
+
+
+
+
+.name{
+  margin-bottom: 5px;
+  color: black;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  display: inline-block;
+}
+.pet{
+  margin-bottom: 5px;
+    color: rgb(96, 96, 96);
+    display: inline-block;
+}
+
+.yes{
+  color: rgb(96, 96, 96);
+}
+
+.work {
+  width: 300px;
+  height: 70px;
+  background-color: aliceblue;
+  padding-top: 12px;
+  display: inline-block;
+  
+  
+}
+
+.box{
+  color: antiquewhite;
+  
+  font-size: 15px ;
+}
+
+.follow{
+  width: 70px;
+  height: 25px;
+  background-color: rgba(0, 17, 255, 0.712);
+  text-align: center;
+  display: inline-block;
+  border-radius: 5px;
+  vertical-align: top;
+}
+
+.allover{
+  background-color: aliceblue;
+  width: 300px;
+  height: 300px;
+}
+
+
+.photo{
+  display: inline-block;
+  width: 80px;
+  vertical-align: top;
+
+}
+
+.picture{
+  border-radius: 60px;
+  display: inline-block;
+}
+
+
+.info{
+  display: inline-block;
+  width: 45px;
+  margin-right: 50px;
+}
+
